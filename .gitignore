@@ -2,10 +2,9 @@ config.py
 *.html
 *.htm
 *.pyc
-*.cpp
-*.h
 *.pro
 *.pro.user
 *.db
-build-qtui-Desktop-Debug/
-wordfreq.py
+*.old
+*analyze.py
+*.app
