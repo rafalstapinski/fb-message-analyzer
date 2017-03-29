@@ -8,3 +8,4 @@ config.py
 *.old
 *analyze.py
 *.app
+Makefile
