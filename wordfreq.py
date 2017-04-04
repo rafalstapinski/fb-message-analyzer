@@ -12,7 +12,7 @@ def compareItems((w1,c1), (w2,c2)):
     else:
         return 1
 
-def main(fname, nwords):
+def count(fname, nwords):
 
     # get the sequence of words from the file
     text = open(fname,'r').read()

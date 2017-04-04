@@ -12,10 +12,10 @@ Roadmap:
 - [x] Parse messages
 - [x] Construct data
 - [ ] Deal with old names and group chats
-- [x] UI Elements
+- [ ] UI Elements (in revision)
 - [ ] Advanced statistics
 
 Currently using Python for data analysis and PyQT and PyQTGraph for displaying
 charts.
 
-The project isn't built yet. A .app and .exe are in the works. 
+The project isn't built yet. A .app and .exe are in the works.
